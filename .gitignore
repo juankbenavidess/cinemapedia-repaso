@@ -1,3 +1,6 @@
+#Variable de entorno
+.env
+
 # Miscellaneous
 *.class
 *.log
